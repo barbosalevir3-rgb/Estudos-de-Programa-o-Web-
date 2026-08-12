@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Programação Web</h1>
+    <!-- Vamos ver mais textos -->
+    <h2> Seja Bem vindo! </h2>
+    <h3> Vamos Nessa! </h3>
+    <h4> Você vai conhecer uma Linguagem de marcação </h4>
+    <h5> hello! </h5>
+    <h6> vamos aprender mais!!! </h6>
+    
+    <p>
+      Linux é um sistema operacional livre e de código aberto criado por Linus Torvalds em 1991. Ele gerencia o hardware e os programas do computador. O núcleo do sistema (kernel) se junta a ferramentas e programas para formar sistemas completos, conhecidos como distribuições.
+    </p>
+    
+   <img src = "gatinho.jpg"
+</body>
+</html>
